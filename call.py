@@ -6,6 +6,7 @@ def balik():
        os.system("python call.py")
     elif f == "t":
          sys.exit("\033[1;91mexit\033[1;97m")
+os.system("clear")
 print ("\tSPAM CALL V4.0")
 print ("      Coded: \033[1;96mFahmiApz\033[1;97m")
 print ("\033[1;97m*     Github:\033[1;92m github.com/BangDanz\033[1;97m      *")
