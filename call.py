@@ -33,6 +33,6 @@ for i in range(1,500):
         print ("\033[90m> \]33[1;97mSPAM \033[1;94m=> \033[1;91mFAILED")
     else:
         print ("\033[90m> \033[1;97mSPAM \033[1;94m=> \033[1;92mSUCCESS")
-    time.sleep(100)
+    time.sleep(40)
 
 balik()
